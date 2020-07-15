@@ -1,6 +1,8 @@
 # Projeto--COVID-19
 
 ![AndroidStudio](https://img.shields.io/badge/Android-Studio-brightgreen)
+![Projeto-COVID-19](https://img.shields.io/badge/Projeto-COVID--19-blue)
+
 
 ## Design das Telas
 ![image](https://user-images.githubusercontent.com/52284130/87252831-95eb3600-c44c-11ea-8fe3-1eeddd8e14d3.png)
